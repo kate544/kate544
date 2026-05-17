@@ -9,7 +9,7 @@
 ### 👩‍💻 About Me
 I'm a **Front-end Developer & UI/UX Designer** from Kenya 🇰🇪 passionate about crafting beautiful, high-performance web products, interactive user experiences, and automated payment ecosystems.
 
-```json
+json
 const kathryn = {
   location: "Nairobi, Kenya 🇰🇪",
   stack: ["React.js", "Node.js", "MERN Stack", "Figma"],
