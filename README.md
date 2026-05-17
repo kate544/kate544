@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Kathryn Mwamburi 👋
 
-<!--
-**kate544/kate544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+I'm a **Front-end Developer & UI/UX Designer** from Kenya 🇰🇪 passionate about crafting beautiful, high-performance web products, interactive user experiences, and automated payment ecosystems.
+
+```json
+const kathryn = {
+  location: "Nairobi, Kenya 🇰🇪",
+  stack: ["React.js", "Node.js", "MERN Stack", "Figma"],
+  focus: ["UI/UX Design", "E-Commerce", "API Integrations (M-Pesa / Paystack)"],
+  current_project: "VestaStay Booking Platform."
+};
+
+🛠️ Tech Stack & Toolkit
+Design & Front-End
+🎨 UI/UX Design: Figma
+💻 Web Development: React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+
+Back-End & Tools
+⚙️ Backend & Database: Node.js, Express, MongoDB
+💳 Payment Integrations: Safaricom Daraja API (M-Pesa STK Push), Paystack
+
+🔧 Version Control & Hosting: Git, GitHub, Render, GitHub Pages
