@@ -16,6 +16,7 @@ const kathryn = {
   stack: ["React.js", "Node.js", "MERN Stack", "Figma"],
   focus: ["UI/UX Design", "E-Commerce", "API Integrations (M-Pesa / Paystack)"],
   current_project: "VestaStay Booking Platform."
+  contact: "kathryntokoli@gmail.com"
 };
 
 🛠️ Tech Stack & Toolkit
