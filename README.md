@@ -14,7 +14,7 @@ const kathryn = {
   location: "Nairobi, Kenya 🇰🇪",
   stack: ["React.js", "Node.js", "MERN Stack", "Figma"],
   focus: ["UI/UX Design", "E-Commerce", "API Integrations (M-Pesa / Paystack)"],
-  current_project: "VestaStay Booking Platform."
+  current_project: "VestaStay Booking Platform.",
   contact: "kathryntokoli@gmail.com"
 };
 
