@@ -5,7 +5,6 @@
   <a href="https://kate544.github.io/My-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:kathryntokoli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
----
 
 ### 👩‍💻 About Me
 I'm a **Front-end Developer & UI/UX Designer** from Kenya 🇰🇪 passionate about crafting beautiful, high-performance web products, interactive user experiences, and automated payment ecosystems.
