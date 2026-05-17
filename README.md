@@ -9,6 +9,17 @@
 ### 👩‍💻 About Me
 I'm a **Front-end Developer & UI/UX Designer** from Kenya 🇰🇪 passionate about crafting beautiful, high-performance web products, interactive user experiences, and automated payment ecosystems.
 
+# Hi there, I'm Kathryn Mwamburi 👋
+
+<p align="left">
+  <a href="[https://linkedin.com](https://linkedin.com)" target="_blank"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a>
+  <a href="[https://kate544.github.io/My-Portfolio/](https://kate544.github.io/My-Portfolio/)" target="_blank"><img src="[https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=react&logoColor=white](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=react&logoColor=white)" alt="Portfolio" /></a>
+  <a href="mailto:kathryntokoli@gmail.com"><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" /></a>
+</p>
+
+### 👩‍💻 About Me
+I'm a **Front-end Developer & UI/UX Designer** from Kenya 🇰🇪 passionate about crafting beautiful, high-performance web products, interactive user experiences, and automated payment ecosystems.
+
 ```json
 const kathryn = {
   location: "Nairobi, Kenya 🇰🇪",
@@ -17,6 +28,7 @@ const kathryn = {
   current_project: "VestaStay Booking Platform.",
   contact: "kathryntokoli@gmail.com"
 };
+```
 🛠️ Tech Stack & Toolkit
 Design & Front-End
 🎨 UI/UX Design: Figma
