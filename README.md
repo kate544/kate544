@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Kathryn Mwamburi, Software Engineer and UI/UX Designer" width="100%"/>
+<img src="https://raw.githubusercontent.com/kate544/kate544/main/banner.svg" alt="Kathryn Mwamburi, Software Engineer and UI/UX Designer" width="100%"/>
 
 <a href="https://github.com/kate544">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=900&height=40&lines=Designing+in+Figma.+Shipping+in+React.;Building+full-stack+MERN+products.;Integrating+M-Pesa+and+Paystack+payments.;Based+in+Nairobi%2C+Kenya" alt="Typing animation" />
