@@ -101,11 +101,14 @@ I'm a **Software Engineer & UI/UX Designer** who sits right where design meets c
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kate544&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff5733&icon_color=ff5733" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kate544&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff5733" alt="Top languages" />
+
+<a href="https://github.com/kate544?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkate544&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=FF5733&labelColor=0d1117" alt="Public repos" /></a>
+<a href="https://github.com/kate544?tab=followers"><img src="https://img.shields.io/github/followers/kate544?label=Followers&style=for-the-badge&logo=github&color=FF5733&labelColor=0d1117" alt="Followers" /></a>
+<a href="https://github.com/kate544"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkate544&query=%24.created_at&label=On%20GitHub%20Since&style=for-the-badge&logo=github&color=FF5733&labelColor=0d1117" alt="On GitHub since" /></a>
+
 </div>
 
 ---
