@@ -52,9 +52,11 @@ I'm a **Software Engineer & UI/UX Designer** who sits right where design meets c
 
 | Project | What it is | Stack |
 |---|---|---|
-| 📲 **[M-Pesa API Trial](https://github.com/kate544/Mpesa-API-Trial)** | Safaricom Daraja integration with M-Pesa STK Push | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
-| 💳 **[Paystack API Trial](https://github.com/kate544/Paystack-API-Trial)** | Paystack payment flow experiments | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Paystack](https://img.shields.io/badge/-Paystack-00C3F7) |
+| 📲 **[M-Pesa API Trial](https://kate544.github.io/ComfortHomes-Payment/)** | Safaricom Daraja integration with M-Pesa STK Push | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
+| 💳 **[Paystack API Trial](https://kate544.github.io/Paystack-Demo/)** | Paystack payment flow experiments | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Paystack](https://img.shields.io/badge/-Paystack-00C3F7) |
 | 🏡 **[VestaStay Paystack API](https://github.com/kate544/VestaStay-Paystack-Api)** | Paystack integration for the VestaStay booking flow | ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Paystack](https://img.shields.io/badge/-Paystack-00C3F7) |
+
+**🔗 Live demos:** [Paystack Demo](https://kate544.github.io/Paystack-Demo/) · [ComfortHomes Payment](https://kate544.github.io/ComfortHomes-Payment/)
 
 ### 🎨 Front-End & Fundamentals
 
