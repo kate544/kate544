@@ -22,7 +22,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Software Engineer & UI/UX Designer** who sits right where design meets code. I design interfaces in Figma, then build them in React, so what ships looks like what was imagined. I love crafting beautiful, high-performance web products, interactive experiences, and automated payment flows built for the Kenyan market. 🇰🇪
+I'm a **Software Engineer & UI/UX Designer** where design meets code. I design interfaces in Figma, then build them in React, so what ships looks like what was imagined. I love crafting beautiful, high-performance web products, interactive experiences, and automated payment flows built for the Kenyan market. 🇰🇪
 
 | | |
 |---|---|
@@ -63,7 +63,7 @@ I'm a **Software Engineer & UI/UX Designer** who sits right where design meets c
 | Project | What it is | Stack |
 |---|---|---|
 | 🌐 **[My Portfolio](https://kate544.github.io/My-Portfolio/)** | My personal portfolio site | ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) |
-| ✅ **[ToDo List](https://github.com/kate544/ToDo-List)** | Task manager app | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| ✅ **[ToDo List](https://kate544.github.io/ToDo-List)** | Task manager app | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | 🔐 **[Sample Login & Registration Form](https://kate544.github.io/React-login-registration-form)** | Login form UI and validation practice | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 | 🧮 **[Calculator](https://github.com/kate544/odin-Calculator)** | HTML, CSS and JavaScript calculator | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 
