@@ -39,7 +39,7 @@ I'm a **Software Engineer & UI/UX Designer** where design meets code. I design i
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| 🏡 **[VestaStay](https://github.com/kate544/VestaStay)** | Full-stack booking platform with a custom backend ([vesta-server](https://github.com/kate544/vesta-server)) and Paystack payments | ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![Active](https://img.shields.io/badge/-Finished-FF5733) |
+| 🏡 **[VestaStay](https://kate544.github.io/VestaStay/)** | A Full-stack booking platform with a custom backend ([vesta-server](https://github.com/kate544/vesta-server)) and Paystack payments | ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![Active](https://img.shields.io/badge/-Finished-FF5733) |
 | 🩺 **AfyaLink CCMS** | Currently building this one. Details stay under wraps while the repo is private | ![MERN](https://img.shields.io/badge/-MERN-20232A) | ![Private](https://img.shields.io/badge/-Private-555555?logo=github&logoColor=white) ![Active](https://img.shields.io/badge/-In_progress-FF5733) |
 
 ### 🤝 Collaboration
